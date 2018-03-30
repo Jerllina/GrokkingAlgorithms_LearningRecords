@@ -34,6 +34,7 @@ def quicksort_circulation(array):
    
     
 #test
+
 array1=array([10,5,3,1,5])
 print('the the recursion version of quicksort of this array is :\t',quicksort_recursion(array1))
 print('the the circulation version of quicksort of this array is :\t',quicksort_circulation(array1))
